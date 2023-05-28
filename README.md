@@ -36,6 +36,7 @@ GitHub Integration Plugin
 Version0.5.0
 GitHub Integration Plugin for Jenkins
 
+Ismeet Singh
 
 GitHub plugin
 Version1.37.0
